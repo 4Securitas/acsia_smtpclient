@@ -16,7 +16,7 @@ Usage
 -----
 
 ````
-acsia_smtpclient --from demarcog83 --to giuseppe.demarco@unical.it --subject ciao --body "my email content" --host smtp.gmail.com -p 587  --username demarcog83@gmail.com --password "*********" --use-tls --use-ssl
+acsia_smtpclient --from my@gmail.com --to dest@thatmail.it --subject ciao --body "my email content" --host smtp.gmail.com -p 587  --username my@gmail.com --password "*********" --use-tls --use-ssl
 ````
 
 Author
